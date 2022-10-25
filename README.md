@@ -18,3 +18,6 @@ Strategy: (PayByCreditCard, PayByDebitCard, PayInCash, PayIngold) ---> extends P
 
 
 (DeliveryByCar, DeliveryByDrone) ---> extends Delivery(these classes using methods from Delivery) + implements interface ShippingStrategy(classes are ipmlementing delivery() in different way), TypeOfDelivery has ShippingStrategy variable(choosing specific implementation of delivery())
+
+
+Point of project was backend. I didnt put much effort into frontend + I tried to make it easy to see all the features(administrator and customer features are on same page) at the expense of realism(customer have acess to prices of products), and stability(adding and removing items from offer and adding to cart simulteniously will break program).
