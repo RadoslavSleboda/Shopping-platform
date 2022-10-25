@@ -9,4 +9,6 @@ Quick guide - if you have no time to explore app just click on numbered highligh
 Advanced details:
 
 
-Architecture:  Builder: ContactInformation(Name(title, firstName, surrname), Adress(city, street, houseNumber)), CardInformation(cardNumber, securityNumber, expirationDay, expirationMonth)
+Architecture:
+
+Builder: ContactInformation(Name(title, firstName, surrname), Adress(city, street, houseNumber)), CardInformation(cardNumber, securityNumber, expirationDay, expirationMonth)
