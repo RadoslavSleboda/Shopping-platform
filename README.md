@@ -6,6 +6,7 @@ Project was designed to practice design patterns namely builder and strategy. It
 Quick guide - if you have no time to explore app just click on numbered highlighted buttons follow sequence(first click DefaultOffer 1. , than Add 2. and so on). You will understand what it does.
 
 
+
 Advanced details:
 
 
